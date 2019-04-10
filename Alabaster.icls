@@ -1,9 +1,9 @@
 <scheme name="Alabaster" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-04-10T19:34:28</property>
+    <property name="created">2019-04-10T19:40:16</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-10T19:34:33</property>
+    <property name="modified">2019-04-10T19:40:21</property>
     <property name="originalScheme">Alabaster</property>
   </metaInfo>
   <colors>
@@ -342,7 +342,7 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="fffcaa" />
+        <option name="BACKGROUND" value="efefef" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -375,6 +375,14 @@
       <value>
         <option name="FOREGROUND" value="cc3333" />
         <option name="BACKGROUND" value="ffe0e0" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="955400" />
+        <option name="BACKGROUND" value="ffff95" />
+        <option name="ERROR_STRIPE_COLOR" value="ebc700" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
