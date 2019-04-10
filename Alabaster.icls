@@ -1,9 +1,9 @@
 <scheme name="Alabaster" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-04-10T19:29:12</property>
+    <property name="created">2019-04-10T19:34:28</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-10T19:29:22</property>
+    <property name="modified">2019-04-10T19:34:33</property>
     <property name="originalScheme">Alabaster</property>
   </metaInfo>
   <colors>
@@ -328,7 +328,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="fffcaa" />
+        <option name="BACKGROUND" value="efefef" />
         <option name="ERROR_STRIPE_COLOR" value="baa8ff" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -379,8 +379,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="5d91" />
-        <option name="BACKGROUND" value="dbf1ff" />
+        <option name="BACKGROUND" value="efefef" />
         <option name="ERROR_STRIPE_COLOR" value="f0adf0" />
       </value>
     </option>
