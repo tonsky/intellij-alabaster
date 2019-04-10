@@ -1,14 +1,14 @@
 <scheme name="Alabaster" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-04-10T18:55:49</property>
+    <property name="created">2019-04-10T19:29:12</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-10T18:55:54</property>
+    <property name="modified">2019-04-10T19:29:22</property>
     <property name="originalScheme">Alabaster</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="7acc" />
-    <option name="CARET_ROW_COLOR" value="f9f9f9" />
+    <option name="CARET_ROW_COLOR" value="" />
     <option name="READONLY_BACKGROUND" value="efefef" />
     <option name="SELECTION_BACKGROUND" value="b4d8fd" />
     <option name="SELECTION_FOREGROUND" value="5d91" />
@@ -49,6 +49,65 @@
     <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="DEFAULT_NUMBER" />
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="C_BOOLEAN">
+      <value>
+        <option name="FOREGROUND" value="7a3e9d" />
+      </value>
+    </option>
+    <option name="C_DATA_READER">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="C_DEREF">
+      <value />
+    </option>
+    <option name="C_DYNAMIC">
+      <value />
+    </option>
+    <option name="C_FN_ARGUMENT">
+      <value />
+    </option>
+    <option name="C_FORM_COMMENT">
+      <value>
+        <option name="BACKGROUND" value="fffcaa" />
+      </value>
+    </option>
+    <option name="C_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="7a3e9d" />
+      </value>
+    </option>
+    <option name="C_LET_BINDING">
+      <value />
+    </option>
+    <option name="C_LINE_COMMENT">
+      <value>
+        <option name="BACKGROUND" value="fffcaa" />
+      </value>
+    </option>
+    <option name="C_METADATA">
+      <value>
+        <option name="FOREGROUND" value="999999" />
+      </value>
+    </option>
+    <option name="C_NAMESPACE">
+      <value />
+    </option>
+    <option name="C_NIL">
+      <value>
+        <option name="FOREGROUND" value="7a3e9d" />
+      </value>
+    </option>
+    <option name="C_QUOTE">
+      <value />
+    </option>
+    <option name="C_QUOTED_SYM">
+      <value />
+    </option>
+    <option name="C_SLASH">
+      <value />
+    </option>
     <option name="DART_CLASS">
       <value />
     </option>
@@ -248,8 +307,8 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="666666" />
-        <option name="BACKGROUND" value="ecfaeb" />
+        <option name="FOREGROUND" value="650b" />
+        <option name="BACKGROUND" value="ddfad4" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
