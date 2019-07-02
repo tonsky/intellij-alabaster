@@ -6,6 +6,15 @@ For motivation, see [sublime-scheme-alabaster](https://github.com/tonsky/sublime
 
 ![Screenshot](screenshot.png)
 
+Alalbaster for IntelliJ is fine tuned for:
+
+- Clojure
+- Java
+- Kotlin
+- Rust
+
+Other languages work perfectly fine as well, but may do some extra unnecessary highlighting in some language-specific places.
+
 ## Installation
 
 1. Download [Alabaster.icls](https://raw.githubusercontent.com/tonsky/intellij-alabaster/master/Alabaster.icls).
@@ -26,3 +35,13 @@ For motivation, see [sublime-scheme-alabaster](https://github.com/tonsky/sublime
 - Dark version for VS Code [apust/vscode-rubber-theme](https://github.com/apust/vscode-rubber-theme)
 - Original version for LigthTable [tonsky/alabaster-lighttable-skin](https://github.com/tonsky/alabaster-lighttable-skin)
 - Version for [CudaText](https://sourceforge.net/projects/cudatext/files/addons/themes/theme.Alabaster.zip/download)
+
+## Changelog
+
+### July 2, 2019
+
+Fine-tuned for Kotlin and Rust. Added a hint of foreground color to stuff that is background highlighted
+
+### April 10, 2019
+
+Initial

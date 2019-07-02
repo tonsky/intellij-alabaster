@@ -1,10 +1,10 @@
 <scheme name="Alabaster" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-04-10T19:40:16</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-10T19:40:21</property>
-    <property name="originalScheme">Alabaster</property>
+    <property name="created">2019-07-02T15:29:21</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2019.1.3.0.0</property>
+    <property name="modified">2019-07-02T15:29:26</property>
+    <property name="originalScheme">Alabaster copy</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="7acc" />
@@ -14,6 +14,12 @@
     <option name="SELECTION_FOREGROUND" value="5d91" />
   </colors>
   <attributes>
+    <option name="ANNOTATION_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="999999" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="cc3333" />
@@ -70,7 +76,8 @@
     </option>
     <option name="C_FORM_COMMENT">
       <value>
-        <option name="BACKGROUND" value="fffcaa" />
+        <option name="FOREGROUND" value="695900" />
+        <option name="BACKGROUND" value="fffabc" />
       </value>
     </option>
     <option name="C_KEYWORD">
@@ -83,7 +90,8 @@
     </option>
     <option name="C_LINE_COMMENT">
       <value>
-        <option name="BACKGROUND" value="fffcaa" />
+        <option name="FOREGROUND" value="695900" />
+        <option name="BACKGROUND" value="fffabc" />
       </value>
     </option>
     <option name="C_METADATA">
@@ -179,6 +187,7 @@
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
+        <option name="FOREGROUND" value="695900" />
         <option name="BACKGROUND" value="fffabc" />
       </value>
     </option>
@@ -207,19 +216,28 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
+        <option name="FOREGROUND" value="695900" />
         <option name="BACKGROUND" value="fffabc" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
+        <option name="FOREGROUND" value="695900" />
+        <option name="BACKGROUND" value="fffabc" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="695900" />
+        <option name="BACKGROUND" value="fffabc" />
+      </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="695900" />
+        <option name="BACKGROUND" value="fffabc" />
+      </value>
     </option>
     <option name="DEFAULT_DOT">
       <value>
@@ -229,6 +247,7 @@
     <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
+        <option name="FOREGROUND" value="3e7e" />
         <option name="BACKGROUND" value="dbf1ff" />
       </value>
     </option>
@@ -240,9 +259,7 @@
       <value />
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
-      <value>
-        <option name="BACKGROUND" value="dbf1ff" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
@@ -255,13 +272,14 @@
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="EFFECT_COLOR" value="808080" />
+        <option name="FOREGROUND" value="3e7e" />
+        <option name="BACKGROUND" value="dbf1ff" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="999999" />
+        <option name="FOREGROUND" value="695900" />
         <option name="BACKGROUND" value="fffabc" />
       </value>
     </option>
@@ -283,6 +301,16 @@
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value />
     </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_REASSIGNED_PARAMETER">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="999999" />
@@ -296,13 +324,21 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="BACKGROUND" value="f1fadf" />
+        <option name="FOREGROUND" value="64200" />
+        <option name="BACKGROUND" value="e5fad7" />
       </value>
     </option>
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="BACKGROUND" value="dbecb6" />
+        <option name="FOREGROUND" value="64200" />
+        <option name="BACKGROUND" value="c0ecaa" />
+      </value>
+    </option>
+    <option name="DEPRECATED_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="aaaaaa" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -333,10 +369,73 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="aaaaaa" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value />
+    </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
         <option name="FOREGROUND" value="7acc" />
         <option name="BACKGROUND" value="bcdaf7" />
+      </value>
+    </option>
+    <option name="INSTANCE_FIELD_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
+    <option name="KOTLIN_BACKING_FIELD_VARIABLE">
+      <value />
+    </option>
+    <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER">
+      <value />
+    </option>
+    <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
+      <value />
+    </option>
+    <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value />
+    </option>
+    <option name="KOTLIN_INSTANCE_PROPERTY">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="KOTLIN_MUTABLE_VARIABLE">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_NAMED_ARGUMENT">
+      <value />
+    </option>
+    <option name="KOTLIN_SMART_CAST_RECEIVER">
+      <value />
+    </option>
+    <option name="KOTLIN_SMART_CAST_VALUE">
+      <value />
+    </option>
+    <option name="KOTLIN_SMART_CONSTANT">
+      <value />
+    </option>
+    <option name="KOTLIN_TRAIT">
+      <value />
+    </option>
+    <option name="MARKDOWN_BLOCK_QUOTE">
+      <value />
+    </option>
+    <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="aaaaaa" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
@@ -345,10 +444,19 @@
         <option name="BACKGROUND" value="efefef" />
       </value>
     </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="aaaaaa" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ffbc5d" />
       </value>
+    </option>
+    <option name="STATIC_FIELD_ATTRIBUTES">
+      <value />
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value />
@@ -358,6 +466,12 @@
         <option name="FOREGROUND" value="7f0000" />
       </value>
     </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ffbc5d" />
@@ -365,6 +479,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="695900" />
         <option name="BACKGROUND" value="fffabc" />
       </value>
     </option>
@@ -379,10 +494,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="955400" />
-        <option name="BACKGROUND" value="ffff95" />
-        <option name="ERROR_STRIPE_COLOR" value="ebc700" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="b9a609" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -394,6 +507,48 @@
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ffbc5d" />
+      </value>
+    </option>
+    <option name="WRONG_REFERENCES_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="ERROR_STRIPE_COLOR" value="cf5b56" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.DOC_CODE" baseAttributes="DEFAULT_DOC_MARKUP" />
+    <option name="org.rust.ENUM">
+      <value />
+    </option>
+    <option name="org.rust.FUNCTION">
+      <value />
+    </option>
+    <option name="org.rust.LIFETIME">
+      <value />
+    </option>
+    <option name="org.rust.MACRO">
+      <value />
+    </option>
+    <option name="org.rust.MUT_BINDING">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.MUT_PARAMETER">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.TRAIT">
+      <value />
+    </option>
+    <option name="org.rust.TYPE_PARAMETER">
+      <value />
+    </option>
+    <option name="org.rust.UNSAFE_CODE">
+      <value>
+        <option name="BACKGROUND" value="ffe8c6" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
