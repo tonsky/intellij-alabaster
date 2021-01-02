@@ -1,9 +1,9 @@
 <scheme name="Alabaster" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2020-12-26T14:51:25</property>
+    <property name="created">2020-12-31T01:18:45</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.4.0.0</property>
-    <property name="modified">2020-12-26T14:51:37</property>
+    <property name="modified">2020-12-31T01:19:02</property>
     <property name="originalScheme">Alabaster</property>
   </metaInfo>
   <colors>
@@ -357,6 +357,81 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="ELIXIR_ALIAS">
+      <value>
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="ELIXIR_BIT">
+      <value />
+    </option>
+    <option name="ELIXIR_BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="ELIXIR_BRACKET" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="ELIXIR_CALLBACK">
+      <value>
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="ELIXIR_CHAR_LIST">
+      <value>
+        <option name="FOREGROUND" value="64200" />
+        <option name="BACKGROUND" value="e5fad7" />
+      </value>
+    </option>
+    <option name="ELIXIR_CHAR_TOKEN">
+      <value />
+    </option>
+    <option name="ELIXIR_EXPRESSION_SUBSTITUTION_MARK" baseAttributes="DEFAULT_BRACES" />
+    <option name="ELIXIR_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="ELIXIR_MACRO_CALL">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="ELIXIR_MAP" baseAttributes="DEFAULT_BRACES" />
+    <option name="ELIXIR_MODULE_ATTRIBUTE">
+      <value />
+    </option>
+    <option name="ELIXIR_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="ELIXIR_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="ELIXIR_PARENTHESES" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="ELIXIR_SIGIL">
+      <value>
+        <option name="FOREGROUND" value="64200" />
+        <option name="BACKGROUND" value="c0ecaa" />
+      </value>
+    </option>
+    <option name="ELIXIR_SPECIFICATION">
+      <value />
+    </option>
+    <option name="ELIXIR_STRUCT">
+      <value />
+    </option>
+    <option name="ELIXIR_TYPE">
+      <value />
+    </option>
+    <option name="ELIXIR_TYPE_PARAMETER">
+      <value />
+    </option>
+    <option name="ELIXIR_VALID_ESCAPE_SEQUENCE">
+      <value>
+        <option name="FOREGROUND" value="64200" />
+        <option name="BACKGROUND" value="c0ecaa" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ELIXIR_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="650b" />
@@ -377,6 +452,15 @@
         <option name="ERROR_STRIPE_COLOR" value="e69317" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="GO_LOCAL_CONSTANT">
+      <value />
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_CONSTANT">
+      <value />
+    </option>
+    <option name="GO_PACKAGE_LOCAL_CONSTANT">
+      <value />
     </option>
     <option name="HTML_CODE">
       <value />
@@ -414,6 +498,14 @@
       <value />
     </option>
     <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
+    <option name="Implicit conversion">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Interpolated String Injection">
+      <value />
+    </option>
     <option name="JS.EXPORTED.FUNCTION">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -654,6 +746,28 @@
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value />
     </option>
+    <option name="Scala Immutable Collection">
+      <value>
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="Scala Local lazy val/var">
+      <value />
+    </option>
+    <option name="Scala Local method call">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="Scala Mutable Collection">
+      <value>
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="Scala Predefined types">
+      <value />
+    </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="7f0000" />
@@ -724,7 +838,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="org.rust.DOC_CODE" baseAttributes="DEFAULT_DOC_MARKUP" />
     <option name="org.rust.ENUM">
       <value />
     </option>
