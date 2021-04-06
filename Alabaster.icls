@@ -629,7 +629,11 @@
       <value />
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="3e7e" />
+        <option name="BACKGROUND" value="dbf1ff" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
     </option>
     <option name="PY.PREDEFINED_USAGE">
       <value />
