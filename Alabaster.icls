@@ -1,9 +1,9 @@
 <scheme name="Alabaster" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2020-12-31T01:18:45</property>
+    <property name="created">2022-12-24T21:56:04</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2020.2.4.0.0</property>
-    <property name="modified">2020-12-31T01:19:02</property>
+    <property name="ideVersion">2022.3.1.0.0</property>
+    <property name="modified">2022-12-24T21:56:14</property>
     <property name="originalScheme">Alabaster</property>
   </metaInfo>
   <colors>
@@ -347,7 +347,7 @@
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="64200" />
+        <option name="FOREGROUND" value="7a3e9d" />
         <option name="BACKGROUND" value="c0ecaa" />
       </value>
     </option>

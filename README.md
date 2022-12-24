@@ -1,10 +1,12 @@
 # Alabaster Color Scheme
 
-A light color scheme with minimal amount of highlighting for IntelliJ IDEA.
+A light & dark color schemes with minimal amount of highlighting for IntelliJ IDEA.
 
 For motivation, see [sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster).
 
 ![Screenshot](screenshot.png)
+
+![Screenshot](screenshot-dark.png)
 
 Alalbaster for IntelliJ is fine tuned for:
 
