@@ -19,10 +19,14 @@ Other languages work perfectly fine as well, but may do some extra unnecessary h
 
 ## Installation
 
-1. Download [Alabaster.icls](https://raw.githubusercontent.com/tonsky/intellij-alabaster/master/Alabaster.icls).
+1. Download [Alabaster.icls] or [Alabaster Dark.icls].
 2. Import through Preferences → Editor → Color scheme → Import Scheme...
 
+[Alabaster.icls]: https://raw.githubusercontent.com/tonsky/intellij-alabaster/master/Alabaster.icls
+[Alabaster Dark.icls]: https://raw.githubusercontent.com/tonsky/intellij-alabaster/master/Alabaster%20Dark.icls
+
 ![Installation](installation.png)
+
 
 ## License
 
