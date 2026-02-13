@@ -37,6 +37,7 @@ Other languages work perfectly fine as well, but may do some extra unnecessary h
 - Version for Sublime Text [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster)
 - Version for Visual Studio Code [tonsky/vscode-theme-alabaster](https://github.com/tonsky/vscode-theme-alabaster)
 - For JetBrains IDEs as a plugin [nabato/alabaster-themes](https://github.com/nabato/alabaster-themes)
+- For JetBrains IDEs as yet another plugin [SimY4/jetbrains-alabaster-theme](https://github.com/SimY4/jetbrains-alabaster-theme)
 - Version for Vim [agudulin/vim-colors-alabaster](https://github.com/agudulin/vim-colors-alabaster)
 - Alternative version for Sublime Text 2 [freetonik/Travertine](https://github.com/freetonik/Travertine)
 - Dark version for VS Code [apust/vscode-rubber-theme](https://github.com/apust/vscode-rubber-theme)
